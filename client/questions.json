@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "Что будет давать true?",
+      "answers": ["null === +\"0\"", "undefined === null", "ананас > яблоко", "undefined == null"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Что такое 'MVC'",
+      "answers": ["Функция", "Обьект", "Паттерн проектирования", "Архитектура API"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Как нельзя явно задать значение this?",
+      "answers": ["context()", "call()", "apply()", "bind()"],
+      "correctOption": 0,
+      "points": 20
+    }
+  ]
+}
